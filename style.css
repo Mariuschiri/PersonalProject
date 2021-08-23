@@ -9,7 +9,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     display: block;
 }
-@media {min-width: 500px) {body {display: grid: ;}}
+@media (min-width: 500px) {body {display: grid;}}
 
 .container {
     background: rgba(24, 119, 242, 0.7);
